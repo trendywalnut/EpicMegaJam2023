@@ -1,0 +1,33 @@
+[0915/171807.671:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/171807.671:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/171807.721:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/171807.721:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/171815.697:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/171815.697:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/171815.742:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/171815.750:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/171901.944:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/171901.944:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/172004.955:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0915/173853.179:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[0915/173853.181:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[0915/173856.158:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/173856.158:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/173856.163:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/173856.163:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210255.639:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210255.639:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210255.656:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210255.656:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210302.053:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210302.053:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210302.062:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210302.064:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210310.074:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210310.075:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/210310.097:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0915/210310.097:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[0915/223347.854:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0915/223348.023:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0915/223348.047:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0915/223348.360:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.

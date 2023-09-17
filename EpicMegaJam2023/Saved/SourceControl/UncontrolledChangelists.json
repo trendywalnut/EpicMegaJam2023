@@ -7,6 +7,8 @@
 			"files": [
 				"C:/Users/ntripathi/Documents/GitHub/EpicMegaJam2023/EpicMegaJam2023/Content/TopDown/Blueprints/BP_AmishRoboDealer_MainMenu_GameMode.uasset",
 				"C:/Users/ntripathi/Documents/GitHub/EpicMegaJam2023/EpicMegaJam2023/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/ntripathi/Documents/GitHub/EpicMegaJam2023/EpicMegaJam2023/Content/TopDown/Blueprints/BP_AmishRoboDealer_InGame_HUD.uasset",
+				"C:/Users/ntripathi/Documents/GitHub/EpicMegaJam2023/EpicMegaJam2023/Content/TopDown/Blueprints/BP_AmishRoboDealer_MainMenu_HUD.uasset",
 				"C:/Users/ntripathi/Documents/Unreal Projects/EpicMegaJam2023/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
