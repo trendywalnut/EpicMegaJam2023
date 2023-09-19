@@ -1729,3 +1729,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.19-20.57.44:849][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 1.46 sec)
 [2023.09.19-20.57.44:850][424]AssetCheck: New page: Asset Save: MerchantFunctionality
 [2023.09.19-20.57.44:850][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MerchantFunctionality.MerchantFunctionality
+[2023.09.19-21.07.36:930][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.09.19-21.07.36:936][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2023.09.19-21.07.36:936][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MerchantFunctionality] ([2] browsable assets)...
+[2023.09.19-21.07.36:936][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MerchantFunctionality]
+[2023.09.19-21.07.37:054][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/MerchantFunctionality_Auto6
+[2023.09.19-21.07.37:054][ 27]LogSavePackage: Moving 'F:/EpicMegaJam2023/EpicMegaJam2023/Saved/MerchantFunctionality_Auto6D273545F4DA8F8E774A97D932D6A31AF.tmp' to 'F:/EpicMegaJam2023/EpicMegaJam2023/Saved/Autosaves/Game/Blueprints/MerchantFunctionality_Auto6.uasset'
+[2023.09.19-21.07.37:055][ 27]LogFileHelpers: Auto-saving content packages took 0.120
+[2023.09.19-21.26.33:438][999]BlueprintLog: New page: Compile MerchantFunctionality
+[2023.09.19-21.26.33:470][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.19-21.26.34:225][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-21.26.34:248][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MerchantFunctionality" FILE="F:/EpicMegaJam2023/EpicMegaJam2023/Content/Blueprints/MerchantFunctionality.uasset" SILENT=true
+[2023.09.19-21.26.34:360][ 41]LogSavePackage: Moving output files for package: /Game/Blueprints/MerchantFunctionality
+[2023.09.19-21.26.34:361][ 41]LogSavePackage: Moving 'F:/EpicMegaJam2023/EpicMegaJam2023/Saved/MerchantFunctionality621780514470034D1267708952CBE0DD.tmp' to 'F:/EpicMegaJam2023/EpicMegaJam2023/Content/Blueprints/MerchantFunctionality.uasset'
+[2023.09.19-21.26.34:368][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1.61 sec)
+[2023.09.19-21.26.34:370][ 41]AssetCheck: New page: Asset Save: MerchantFunctionality
+[2023.09.19-21.26.34:370][ 41]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MerchantFunctionality.MerchantFunctionality
